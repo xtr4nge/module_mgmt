@@ -2,7 +2,7 @@
 $mod_name="mgmt";
 $mod_version="1.0";
 $mod_path="/usr/share/fruitywifi/www/modules/$mod_name";
-$mod_logs="$log_path/dnsmasq.log";
+$mod_logs="$log_path/dnsmasq-mgmt.log";
 $mod_logs_history="$mod_path/includes/logs/";
 $mod_panel="show";
 $mod_type="service";
